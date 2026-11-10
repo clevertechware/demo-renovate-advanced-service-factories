@@ -1,0 +1,1 @@
+{"$schema": "https://docs.renovatebot.com/renovate-schema.json", "extends": ["github>clevertechware/demo-renovate-advanced-config//java-service"]}
